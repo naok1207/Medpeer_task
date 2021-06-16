@@ -22,20 +22,20 @@
 
 ## 実行確認
 データ登録前
-![データ登録前](https://gyazo.com/3b53e80329513d9922f0ac98f43a81a3)
+![データ登録前](https://gyazo.com/3b53e80329513d9922f0ac98f43a81a3.png)
 
 アイデアを登録(success)
-![アイデアを登録1(success)](https://gyazo.com/93adbde839d2936e5852ce1519c595f1)
-![アイデアを登録2(success)](https://gyazo.com/b87861134b249da508bfc4316299a612)
+![アイデアを登録1(success)](https://gyazo.com/93adbde839d2936e5852ce1519c595f1.png)
+![アイデアを登録2(success)](https://gyazo.com/b87861134b249da508bfc4316299a612.png)
 
 アイデアを登録(failed)
-![アイデアを登録(failed)](https://gyazo.com/70fd92bc91cf5fc9e6129696e664f747)
+![アイデアを登録(failed)](https://gyazo.com/70fd92bc91cf5fc9e6129696e664f747.png)
 
 アイデアを取得(全アイデア)
-![アイデアを取得(全アイデア)](https://gyazo.com/908d40342669151a0061b6a1b707d7ce)
+![アイデアを取得(全アイデア)](https://gyazo.com/908d40342669151a0061b6a1b707d7ce.png)
 
 アイデアを取得(カテゴリに関連した)
-![アイデアを取得(カテゴリに関連した)](https://gyazo.com/3b646fe46cccf386312bbff802f7f819)
+![アイデアを取得(カテゴリに関連した)](https://gyazo.com/3b646fe46cccf386312bbff802f7f819.png)
 
-アイデアを取得(失敗)
-![アイデアを取得(失敗)](https://gyazo.com/9678f1f1c3690c556974305d7e7e2f6d)
+アイデアを取得(failed)
+![アイデアを取得(failed)](https://gyazo.com/9678f1f1c3690c556974305d7e7e2f6d.png)
