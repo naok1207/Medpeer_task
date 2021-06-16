@@ -1,6 +1,9 @@
 require:
   - rubocop-rails
 
+inherit_from:
+  - .rubocop_rspec.yml
+
 AllCops:
   NewCops: enable
   Exclude:
@@ -17,7 +20,7 @@ Rails:
 Rails/FilePath:
   Enabled: false
 
-AsciiComments:
+Style/AsciiComments:
   Enabled: false
 
 Metrics/BlockLength:
@@ -32,4 +35,16 @@ Layout/LineLength:
   Enabled: false
 
 Style/Documentation:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/ParameterLists:
+  Max: 12
+
+Metrics/CyclomaticComplexity:
   Enabled: false
